@@ -1,4 +1,4 @@
-email: https://docs.python.org/3/library/email.html?highlight=mail#module-email"
+email: https://docs.python.org/3/library/email.html#module-email"
 <br>
 smtplib: https://docs.python.org/3/library/smtplib.html#module-smtplib
 <br>
